@@ -19,6 +19,6 @@ html {
 }
 
 /* Write your solution here */
-@media (min-width: 1196px) {
-  #dolphin{ top: 500px; }
+@media (min-width: 642px) and (max-width: 1090px) {
+  #dolphin{ transform: rotate(.5 turn);}
 }
